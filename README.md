@@ -1,5 +1,3 @@
-___
-
 # Git
 Distributed Version Control using Git
 
